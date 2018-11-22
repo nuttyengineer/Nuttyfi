@@ -1,2 +1,0 @@
-# 
-Nuttyfi IoT Wifi Board
